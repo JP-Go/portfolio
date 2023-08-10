@@ -1,0 +1,10 @@
+Hello there! I&apos;m João Pedro (JP), a passionate fullstack
+software developer with a journey spanning over 6 exciting months in
+the world of code. My fascination with technology led me to dive
+into various aspects of web development, and I&apos;ve had the
+pleasure of working with a range of technologies including Node.js,
+React, and Spring Boot. I enjoy crafting dynamic and intuitive
+digital experiences. From server-side logic to polished user
+interfaces, I take pride in my ability to traverse the full
+development spectrum. Let&apos;s connect and create something
+remarkable together!
